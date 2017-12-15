@@ -1,2 +1,4 @@
 .DS_Store
 *Release Notes.markdown
+/node_modules
+/.vscode

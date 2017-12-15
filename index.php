@@ -1,7 +1,7 @@
 <?php
 
 // Load core application config
-include_once('../config/application.php');
+include_once('./config/application.php');
 
 try
 {
