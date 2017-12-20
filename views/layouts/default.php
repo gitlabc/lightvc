@@ -25,7 +25,7 @@
 <body>
 	
 	<div id="header">
-		Congratulations! LightVC is working :)
+		Congratulations! LightVC is working :) HAHAHA
 	</div>
 
 	<div id="content">
